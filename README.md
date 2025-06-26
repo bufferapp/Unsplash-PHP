@@ -1,4 +1,4 @@
-# PHP Unsplash Wrapper
+# PHP Unsplash Wrapper - THIS REPO IS UNUSED AND ARCHIVED
 
 [ ![Codeship Status for CrewLabs/Unsplash-PHP](https://codeship.com/projects/60048560-0bba-0133-b04d-265ef25499ca/status?branch=master)](https://codeship.com/projects/90915)
 
